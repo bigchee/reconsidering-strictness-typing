@@ -1,0 +1,6 @@
+name = "strictness"
+version = "0.1.0"
+defaultTargets = ["Strictness"]
+
+[[lean_lib]]
+name = "Strictness"
